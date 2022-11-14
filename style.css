@@ -1,0 +1,76 @@
+#apiKey{
+  width: 245px;
+  height: 30px;
+  margin-top: 5px;
+  border: 1px solid aqua;
+  border-radius: 5px;
+}
+
+#submitApiKey{
+  width: 200px;
+  height: 35px;
+  margin: 3px 0 0 25px;
+  background-color: grey(42, 148, 148);
+  font-weight: 700;
+  font-size: large;
+  color: pink;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media(min-width: 768px){
+  html{
+    font-size: 16px;
+  }
+}
+
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+  color: grey;
+  background-color: black;
+}
+
+.enter-api{
+  width: 300px;
+  height: 150px;
+  display: block;
+  margin: 300px 0 0 520px;
+  background-color:white;
+
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
